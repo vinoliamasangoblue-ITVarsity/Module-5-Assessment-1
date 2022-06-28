@@ -33,8 +33,8 @@ h1{
 	width: 1204px;
 	height: 1204px;
 	bottom: -512px;
-	left: 15%;
-	margin-left: -50px;
+	left: 50%;
+	margin-left: 602px;
 	border: 1px dotted #ffffff;
 	border-radius: 50%;
 	animation: spin-left 14s linear infinite;

@@ -14,9 +14,9 @@ h1{
 }
 #sun{
 	position: absolute;
-	bottom: 10px;
 	z-index: 1000;
 	width: 160px;
+	bottom: 10px;
 	left: 50%;
 	margin-left: -80px;
 }

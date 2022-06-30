@@ -34,7 +34,7 @@ h1{
 	height: 1204px;
 	bottom: -512px;
 	left: 50%;
-	margin-left: 602px;
+	margin-left: -602px;
 	border: 1px dotted #ffffff;
 	border-radius: 50%;
 	animation: spin-left 14s linear infinite;
